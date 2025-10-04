@@ -4,7 +4,7 @@ This is a blog built with VitePress!
 
 ## Latest Articles
 
-- [Getting Started with VitePress](/articles/getting-started)
+- [Getting Started with VitePress](/articles/index)
 
 ## About
 
