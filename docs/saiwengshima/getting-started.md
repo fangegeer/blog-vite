@@ -1,300 +1,150 @@
-```HTML
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Abuelo Optimista y Su Caballo - Cuento Chino</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Georgia', serif;
-            line-height: 1.8;
-            color: #2c3e50;
-            background: #fafafa;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        
-        .hero {
-            text-align: center;
-            padding: 40px 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border-radius: 12px;
-            margin-bottom: 40px;
-        }
-        
-        .hero h1 {
-            font-size: 2em;
-            margin-bottom: 20px;
-            font-weight: 300;
-            letter-spacing: 1px;
-        }
-        
-        .audio-btn {
-            background: white;
-            color: #667eea;
-            border: none;
-            padding: 15px 40px;
-            font-size: 1.1em;
-            border-radius: 30px;
-            cursor: pointer;
-            margin: 20px 0;
-            transition: transform 0.2s;
-            font-weight: 600;
-        }
-        
-        .audio-btn:hover {
-            transform: scale(1.05);
-        }
-        
-        .hero p {
-            font-size: 0.9em;
-            opacity: 0.9;
-        }
-        
-        .story {
-            background: white;
-            padding: 40px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-        
-        .story h2 {
-            font-size: 1.8em;
-            margin-bottom: 30px;
-            color: #667eea;
-            font-weight: 400;
-            text-align: center;
-        }
-        
-        .story p {
-            margin-bottom: 20px;
-            text-align: justify;
-            font-size: 1.1em;
-        }
-        
-        .story p:first-of-type::first-letter {
-            font-size: 3em;
-            float: left;
-            line-height: 0.9;
-            margin: 5px 10px 0 0;
-            color: #667eea;
-            font-weight: bold;
-        }
-        
-        .questions {
-            background: #f8f9fa;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            border-left: 4px solid #667eea;
-        }
-        
-        .questions h3 {
-            font-size: 1.4em;
-            margin-bottom: 20px;
-            color: #667eea;
-            font-weight: 400;
-        }
-        
-        .questions ol {
-            padding-left: 20px;
-        }
-        
-        .questions li {
-            margin-bottom: 15px;
-            font-size: 1.05em;
-        }
-        
-        .teacher-pack {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-        
-        .teacher-pack h3 {
-            font-size: 1.4em;
-            margin-bottom: 20px;
-            color: #667eea;
-            font-weight: 400;
-        }
-        
-        .teacher-pack ul {
-            list-style: none;
-            margin-bottom: 15px;
-        }
-        
-        .teacher-pack li {
-            margin-bottom: 12px;
-        }
-        
-        .btn-pdf {
-            display: inline-block;
-            padding: 10px 20px;
-            background: #667eea;
-            color: white;
-            text-decoration: none;
-            border-radius: 6px;
-            transition: background 0.3s;
-        }
-        
-        .btn-pdf:hover {
-            background: #764ba2;
-        }
-        
-        .teacher-pack p {
-            font-size: 0.9em;
-            color: #666;
-            font-style: italic;
-        }
-        
-        .member-bar {
-            background: #ffd93d;
-            padding: 25px;
-            border-radius: 12px;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        
-        .member-bar p {
-            margin-bottom: 15px;
-            font-size: 1.1em;
-            font-weight: 600;
-        }
-        
-        .btn-member {
-            display: inline-block;
-            padding: 12px 30px;
-            background: #2c3e50;
-            color: white;
-            text-decoration: none;
-            border-radius: 30px;
-            font-weight: 600;
-            transition: background 0.3s;
-        }
-        
-        .btn-member:hover {
-            background: #34495e;
-        }
-        
-        footer {
-            background: #2c3e50;
-            color: white;
-            padding: 30px;
-            border-radius: 12px;
-            font-size: 0.9em;
-        }
-        
-        footer p {
-            margin-bottom: 10px;
-            line-height: 1.6;
-        }
-        
-        footer p:last-child {
-            margin-bottom: 0;
-        }
-        
-        @media (max-width: 600px) {
-            body {
-                padding: 10px;
-            }
-            
-            .hero h1 {
-                font-size: 1.5em;
-            }
-            
-            .story {
-                padding: 25px;
-            }
-            
-            .story h2 {
-                font-size: 1.4em;
-            }
-            
-            .story p {
-                font-size: 1em;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="hero">
-        <h1>El Abuelo Optimista y Su Caballo</h1>
-        <p>塞翁失马 - Cuento Popular Chino</p>
-        <button class="audio-btn" onclick="playAudio()">▶ Escuchar Historia (4 min)</button>
-        <audio id="storyAudio"></audio>
-        <p>Audio en español | Impresión disponible abajo ↓</p>
-    </div>
+明白了！感谢您的澄清。
 
-    <div class="story">
-        <h2>塞翁失馬 焉知非福</h2>
-        
-        <p>En un pequeño pueblo cerca de la frontera vivía un anciano que adoraba criar caballos, conocido por todos como "el Abuelo Optimista".</p>
-        
-        <p>Un día, su caballo más querido escapó por la montaña y desapareció. Los vecinos, al enterarse, acudieron a consolarlo: "¡Qué mala pata! No te lo tomes tan a pecho". Pero el Abuelo Optimista, con una sonrisa, respondió: "He perdido un caballo, pero ¿quién sabe si esto no acabará siendo algo bueno?". Los vecinos pensaron que el viejo solo intentaba animarse a sí mismo.</p>
-        
-        <p>Unos días después, ocurrió algo sorprendente. El caballo perdido regresó, y no solo, sino acompañado de un magnífico caballo salvaje, alto y vigoroso, que nadie había visto antes. Los vecinos, llenos de admiración, fueron a felicitarlo: "¡Menuda suerte! ¡Qué visión tuviste, esto es una bendición!". Sin embargo, el Abuelo Optimista no se dejó llevar por la alegría. Con un aire de cautela, dijo: "Que me haya caído un caballo tan bueno sin más no tiene por qué ser una suerte. A veces, estas cosas traen problemas".</p>
-        
-        <p>El hijo del Abuelo Optimista quedó fascinado con el caballo salvaje, que parecía tan imponente. Todos los días lo montaba para dar un paseo. Pero un día, al galopar con demasiada prisa, se cayó del caballo y se rompió una pierna. Los vecinos volvieron para consolarlo, pero el anciano, sereno como siempre, comentó: "Que mi hijo se haya roto la pierna es una desgracia, pero ¿quién puede asegurar que no será el comienzo de algo bueno?". Los vecinos, una vez más, se quedaron perplejos ante su actitud.</p>
-        
-        <p>Poco tiempo después, estalló una guerra en el reino, y todos los jóvenes sanos fueron llamados a filas. Gracias a su pierna rota, el hijo del Abuelo Optimista se libró de ir al frente. Cuando la guerra terminó, muchos jóvenes no regresaron, pero el hijo del anciano, por lo que parecía una desgracia, tuvo la fortuna de seguir con vida, sano y salvo en casa.</p>
-    </div>
+您需要的是一份**面向拉美地区儿童（非中文母语者）的童话故事教学教案**，目的是通过《塞翁失马》这个中国寓言，以**讲故事的方式**传递乐观、辩证思维和抗挫能力，**不是教中文语言课**，而是**价值观/生活教育/跨文化故事课**。孩子可能是西班牙语母语者，年龄大约在6–12岁，课堂可能由当地老师用西班牙语授课，而您现在需要一份**中文撰写的教案框架**，便于后续翻译成西班牙语供拉美教师使用。
 
-    <div class="questions">
-        <h3>💭 Preguntas para Reflexionar (5 min)</h3>
-        <ol>
-            <li>¿Cuántas veces cambia de "malo" a "bueno" el suceso en esta historia?</li>
-            <li>¿Has perdido algo que luego resultó ser una bendición? Comparte tu experiencia.</li>
-            <li>Si algo malo te sucede hoy, ¿cómo podrías verlo con los ojos del Abuelo Optimista?</li>
-            <li>¿Qué nos enseña este cuento sobre juzgar los acontecimientos demasiado rápido?</li>
-        </ol>
-    </div>
+以下是重新调整后的教案，聚焦**儿童心理、故事讲述、价值观引导与互动体验**，弱化语言教学，强化情感共鸣与生活联系：
 
-    <div class="teacher-pack">
-        <h3>📄 Materiales para Imprimir</h3>
-        <ul>
-            <li><a href="#" class="btn-pdf">📄 Ficha Educativa A4</a> - Guía para maestros con actividades</li>
-            <li><a href="#" class="btn-pdf">📄 Comic Ilustrado B/N</a> - 4 viñetas para colorear</li>
-            <li><a href="#" class="btn-pdf">📄 Diario de Gratitud</a> - 7 días de reflexión</li>
-        </ul>
-        <p>PDFs optimizados para impresión en blanco y negro • Menos de 500KB cada uno</p>
-    </div>
+---
 
-    <div class="member-bar">
-        <p>¿Te gustaría recibir 2 cuentos nuevos cada semana?</p>
-        <a href="#" class="btn-member">Suscribirse por 3.5€/mes</a>
-    </div>
+### **教案标题**
+《塞翁失马：坏事真的那么坏吗？》  
+——一个来自中国的智慧童话故事
 
-    <footer>
-        <p><strong>Etiquetas:</strong> China • Fábula • 4 minutos • Optimismo • Sabiduría Oriental • SDG 16</p>
-        <p><strong>Objetivos de Desarrollo Sostenible:</strong> Este cuento apoya el ODS 16 (Paz, Justicia e Instituciones Sólidas) al fomentar la resiliencia emocional y la paz interior ante los conflictos y cambios de la vida.</p>
-        <p><strong>Información técnica:</strong> Audio disponible en español neutro • PDFs < 500KB • Optimizado para dispositivos móviles</p>
-    </footer>
+---
 
-    <script>
-        function playAudio() {
-            const audio = document.getElementById('storyAudio');
-            const btn = document.querySelector('.audio-btn');
-            
-            if (audio.paused) {
-                alert('Audio pendiente de implementación. Aquí se reproduciría el cuento narrado.');
-                btn.textContent = '⏸ Pausar';
-            } else {
-                audio.pause();
-                btn.textContent = '▶ Escuchar Historia (4 min)';
-            }
-        }
-    </script>
-</body>
-</html>
-```
+### **一、适用对象**
+- 拉美地区小学低年级至高年级学生（6–12岁）
+- 课堂语言：西班牙语（本教案为教师提供中文内容框架，便于翻译）
+- 课程类型：品德教育 / 跨文化故事课 / 心理韧性培养
+
+---
+
+### **二、教学目标**
+
+1. **情感与态度**
+    - 帮助孩子理解：生活中“看似倒霉的事”可能带来意想不到的好结果。
+    - 培养面对挫折时的平静心态和希望感。
+
+2. **思维能力**
+    - 初步建立“事情可能有两面”的思维方式。
+    - 学会不急于对一件事下“好”或“坏”的结论。
+
+3. **文化意识**
+    - 了解一个来自中国的古老智慧故事。
+    - 感受不同文化中对“运气”“困难”“希望”的理解。
+
+---
+
+### **三、核心价值观关键词**
+- 乐观
+- 耐心
+- 福祸相依
+- 长远眼光
+- 抗挫折能力（“越摔越结实”）
+
+---
+
+### **四、教学准备**
+
+- **故事绘本或插图**（建议：马、老人、边境村庄、战争背景的简单图画）
+- **情绪卡片**：开心、难过、担心、平静、惊讶
+- **“我的好运日记”记录表**（7天打卡表，含简单图标）
+- **小道具**（可选）：玩具马、拐杖（模拟腿伤）、和平鸽（象征战争结束）
+
+---
+
+### **五、教学流程**
+
+#### **1. 暖场提问（5分钟）**
+- 老师问：
+    - “有没有哪次你觉得‘真倒霉’，结果后来发现其实挺好的？”
+    - “如果你最喜欢的玩具丢了，你会怎么想？”
+- 鼓励孩子分享真实经历（如：没去成游乐园，却在家和家人做了蛋糕）。
+
+---
+
+#### **2. 讲述故事（10–12分钟）**
+用生动、缓慢、富有表情的语气讲述《塞翁失马》故事，分四幕：
+
+1. **马丢了** → 邻居说“真倒霉”，爷爷说：“也许不是坏事？”
+2. **马带回野马** → 邻居说“真幸运”，爷爷说：“也许会惹麻烦？”
+3. **儿子摔断腿** → 邻居说“太惨了”，爷爷说：“也许会带来好运？”
+4. **战争爆发** → 儿子因伤免役，平安活下来
+
+> **讲述技巧**：
+> - 每讲完一幕，停顿问：“你觉得爷爷说得对吗？”
+> - 用情绪卡片让孩子选出邻居和爷爷的心情。
+
+---
+
+#### **3. 讨论与反思（8–10分钟）**
+
+- **引导问题**：
+    - 为什么爷爷每次都不像邻居那样激动？
+    - 哪一次“坏事”最后变成了“好事”？
+    - 如果你是爷爷的儿子，摔断腿时会怎么想？
+
+- **关键点强调**：
+    - “坏事”和“好事”像天气——阴天之后可能有彩虹。
+    - 我们不能控制所有事情，但可以控制自己的想法。
+
+---
+
+#### **4. 互动活动（10分钟）**
+
+**活动一：我的“塞翁时刻”**
+- 让孩子画或写一件自己经历过的“坏事变好事”（可用简单句子或图画）。
+- 示例：
+    - “我生病没去学校，但妈妈陪我读了一本超棒的书！”
+    - “我摔倒了，但朋友来安慰我，我们成了更好的朋友。”
+
+**活动二：7天好运挑战**
+- 发放“7天发现好运气”记录表：
+    - 每天画一个“小乌云”（代表不开心的事）
+    - 7天后，看看有没有“乌云后面藏着太阳”？
+- 鼓励孩子带回家和家人一起完成。
+
+---
+
+#### **5. 总结与行动（3–5分钟）**
+
+- **老师总结**：
+  > “生活就像一个很长的故事。今天看起来是‘句号’的事，可能只是‘逗号’。  
+  > 下次遇到不开心，试试像‘乐观爷爷’一样问自己：  
+  > **‘这会不会是好事的开始呢？’**”
+
+- **行动号召**：
+    - 把“7天好运表”带回家
+    - 和家人分享这个中国故事
+
+---
+
+### **六、给教师的特别提示**
+
+- **文化连接**：
+    - 可对比拉美民间智慧，如：“Dios aprieta, pero no ahoga”（上帝让你受苦，但不会让你窒息）或“No hay mal que por bien no venga”。
+- **情感安全**：
+    - 避免让孩子觉得“必须乐观”，而是传递“允许难过，但也可以留一点空间给希望”。
+- **简化哲理**：
+    - 不用讲“辩证法”，只说：“有时候，坏事和好事会手拉手出现。”
+
+---
+
+### **七、延伸建议**
+
+- **家庭作业**：让孩子采访家人：“你有过‘坏事变好事’的经历吗？”
+- **教室角落**：设立“好运墙”，张贴孩子们的“乌云变太阳”故事。
+- **跨学科链接**：
+    - 心理课：情绪管理
+    - 社会课：不同国家如何面对困难
+    - 艺术课：画“我的好运故事”连环画
+
+---
+
+### **教师结语**
+> 这个来自中国边境的小故事，穿越千年，只为告诉今天的孩子：  
+> **“你的故事还没写完，别急着给今天下结论。”**
+
+---
+
+这份教案完全以**儿童为中心**，强调**故事体验、情感共鸣与生活应用**，适合拉美地区教师用西班牙语开展一堂温暖而有深度的价值观课。您可以直接将其翻译为西班牙语用于教师培训或课堂指南。如需配套的学生工作纸、故事插图建议或PPT脚本，也欢迎继续提出！

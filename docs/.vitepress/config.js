@@ -14,7 +14,7 @@ export default {
         { text: 'Getting Started', link: '/articles/index' }
       ],
       '/saiwengshima/': [
-        { text: '塞翁失马', link: '/saiwengshima/getting-started' }
+        { text: '教案', link: '/saiwengshima/getting-started' }
       ]
     }
   }
