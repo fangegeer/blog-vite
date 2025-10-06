@@ -1,11 +1,10 @@
 export default {
   lang: 'en-US',
-  title: 'My Blog',
-  description: 'A VitePress-powered blog',
+  title: 'Lejano Oriente',
+  description: 'Historias del Lejano Oriente',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: '塞翁失马', link: '/saiwengshima/' },
       { text: 'About', link: '/about/' }
     ],
     sidebar: {
