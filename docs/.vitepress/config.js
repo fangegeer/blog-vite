@@ -5,16 +5,12 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Articles', link: '/articles/' },
       { text: '塞翁失马', link: '/saiwengshima/' },
       { text: 'About', link: '/about/' }
     ],
     sidebar: {
       '/articles/': [
         { text: 'Getting Started', link: '/articles/index' }
-      ],
-      '/saiwengshima/': [
-        { text: '教案', link: '/saiwengshima/getting-started' }
       ]
     }
   }
