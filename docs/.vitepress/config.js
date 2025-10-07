@@ -8,8 +8,8 @@ export default {
       { text: 'About', link: '/about/' }
     ],
     sidebar: {
-      '/articles/': [
-        { text: 'Getting Started', link: '/articles/index' }
+      '/saiwengshima/': [
+        { text: 'Suerte o Desgracia? El Abuelo Optimista', link: '/saiwengshima/index' }
       ]
     }
   }
