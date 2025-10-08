@@ -66,8 +66,12 @@ ${pages.map(page => `
   </url>`).join('')}
 </urlset>`
 
+      const robotstxt = `User-agent: *
+Allow: /
+Sitemap: ${baseUrl}/sitemap.xml`
       // 🔧 修复：确保目录存在
       const outputPath = resolve('docs/.vitepress/dist/sitemap.xml')
+      const robotsOutputPath = resolve('docs/.vitepress/dist/robots.txt')
       const outputDir = dirname(outputPath) // 获取目录路径
 
       // 如果目录不存在，创建它
@@ -76,6 +80,7 @@ ${pages.map(page => `
         console.log('📁 Created directory:', outputDir)
       }
       writeFileSync(outputPath, sitemap)
+      writeFileSync(robotsOutputPath, robotstxt)
       console.log('✅ Sitemap generated successfully!')
       console.log(`📄 Total pages: ${pages.length}`)
     } catch (error) {
