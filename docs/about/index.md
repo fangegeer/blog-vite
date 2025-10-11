@@ -1,18 +1,18 @@
 # Sobre Nosotros | Viaje Global de Cuentos 🌍✨
 
----
+
 
 ## 🎯 Nuestra Misión
 
 Creemos que cada cuento clásico es una semilla de sabiduría que puede cruzar fronteras culturales y lingüísticas para echar raíces en el corazón de los niños. Nuestra misión es **recolectar los tesoros de cuentos de todo el mundo**, regarlos con amor y creatividad, para que cada niño encuentre alegría, sabiduría y fortaleza en las historias.
 
----
+
 
 ## 👥 Quiénes Somos
 
 Somos un grupo de **freelancers esparcidos por el mundo**, usando **nuestro tiempo libre y energía fragmentada**. En las noches después del trabajo o las mañanas de los fines de semana, poco a poco construimos este reino de cuentos. No tenemos grandes fondos, pero sí una pasión enorme; no contamos con un equipo lujoso, pero tenemos una convicción firme.
 
----
+
 
 ## 🌟 Características del Proyecto
 
@@ -32,7 +32,7 @@ Usamos tecnología moderna combinada con **IA** para crear audios e ilustracione
 
 Proporcionamos **materiales completos para la enseñanza** a padres y maestros, haciendo que las historias vayan más allá de ser solo cuentos.
 
----
+
 
 ## 💌 Contáctanos
 
@@ -62,7 +62,7 @@ Si tú también eres:
 
 ¡Escríbenos contándonos tus habilidades y el tiempo que puedes dedicar!
 
----
+
 
 ## 🤝 Únete a Nuestro Viaje
 
