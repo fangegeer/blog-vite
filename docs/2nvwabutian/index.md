@@ -233,4 +233,6 @@ Como Nüwa protegió el mundo, haz algo por el medio ambiente. Puede ser limpiar
 .quiz-radio:checked + .correct-option {
   background: #d1edff;
   border-color: #4CAF50;
-  color: #155
+  color: #155724;
+}
+</style>

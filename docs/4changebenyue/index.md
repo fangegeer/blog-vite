@@ -237,4 +237,6 @@ Imagina qué harías en el palacio lunar. ¿Molerías medicinas con el conejo de
 
 .quiz-radio:checked + .correct-option {
   background: #d1edff;
-  border-color:
+  border-color: #f0f9ff;
+}
+</style>
