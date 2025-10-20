@@ -13,31 +13,51 @@ export default {
       { text: 'About', link: '/about/' }
     ],
     sidebar: {
-        //神话传说
-      '/shenhua/': [
-        { text: 'Yugong Mueve las Montañas ⛰️', link: '/1yugongyishan/index' },
-        { text: 'Nüwa Repara el Cielo 🌌', link: '/2nvwabutian/index' },
-        { text: 'Pangu Crea el Mundo 🌄', link: '/3pangukaitian/index' },
-        { text: 'Chang\'e Vuela a la Luna 🌕', link: '/4changebenyue/index' },
-        { text: 'Houyi Dispara a los Soles 🌞', link: '/5houyisheri/index' },
-          { text: 'El Pastor y la Tejedora 🌌', link: '/6niulangzhinv/index' },
-          { text: 'Los Ocho Inmortales Cruzan el Mar 🌊', link: '/8baxianguohai/index' },
-          { text: 'Kuafu Persigue el Sol 🌞', link: '/9kuafuzhuri/index' },
-      ],
-        //寓言故事
-      '/yuyan/': [
-        { text: 'El Hombre de Qi que Temía al Cielo 🌤️', link: '/7qirenyoutian/index' },
-        { text: 'Pintar Patas a la Serpiente 🐍', link: '/10huashetianzu/index' },
-        { text: 'El Pájaro Jingwei Llena el Mar 🌊', link: '/11jingweitianhai/index' },
-        { text: 'Marcar el Barco para Encontrar la Espada 🗡️🚢', link: '/13kezhouqiujian/index' },
-        { text: 'El Señor Ye Ama a los Dragones 🐉🏠', link: '/14yegonghaolong/index' },
-        { text: 'Los Ciegos y el Elefante 👥🐘', link: '/15mangrenmoxiang/index' },
-        { text: 'La Rana en el Fondo del Pozo 🐸', link: '/16jingdizhiwa/index' },
-        { text: 'El Zorro que Aprovecha el Poder del Tigre 🦊👑', link: '/17hujiahuwei/index' },
-        { text: 'Esperar al Conejo Junto al Árbol 🌳🐇', link: '/18shouzhudaitu/index' },
-        { text: 'Contradecirse a Sí Mismo 🛡️⚔️', link: '/19zixiangmaodun/index' },
-        { text: 'Mirar los Ciruelos para Calmar la Sed 🌳🍒', link: '/20wangmeizhike/index' },
-        { text: 'Suerte o Desgracia? El Abuelo Optimista', link: '/saiwengshima/index' }
+      // 根路径的侧边栏配置
+      '/': [
+        // 神话传说部分
+        {
+          text: 'Mitología China 🐉',
+          collapsible: true,
+          items: [
+            { text: 'Yugong Mueve las Montañas ⛰️', link: '/1yugongyishan/index' },
+            { text: 'Nüwa Repara el Cielo 🌌', link: '/2nvwabutian/index' },
+            { text: 'Pangu Crea el Mundo 🌄', link: '/3pangukaitian/index' },
+            { text: "Chang'e Vuela a la Luna 🌕", link: '/4changebenyue/index' },
+            { text: 'Houyi Dispara a los Soles 🌞', link: '/5houyisheri/index' },
+            { text: 'El Pastor y la Tejedora 🌌', link: '/6niulangzhinv/index' },
+            { text: 'Los Ocho Inmortales Cruzan el Mar 🌊', link: '/8baxianguohai/index' },
+            { text: 'Kuafu Persigue el Sol 🌞', link: '/9kuafuzhuri/index' }
+          ]
+        },
+        // 寓言故事部分
+        {
+          text: 'Fábulas Chinas 📚',
+          collapsible: true,
+          items: [
+            { text: 'El Hombre de Qi que Temía al Cielo 🌤️', link: '/7qirenyoutian/index' },
+            { text: 'Pintar Patas a la Serpiente 🐍', link: '/10huashetianzu/index' },
+            { text: 'El Pájaro Jingwei Llena el Mar 🌊', link: '/11jingweitianhai/index' },
+            { text: 'Marcar el Barco para Encontrar la Espada 🗡️🚢', link: '/13kezhouqiujian/index' },
+            { text: 'El Señor Ye Ama a los Dragones 🐉🏠', link: '/14yegonghaolong/index' },
+            { text: 'Los Ciegos y el Elefante 👥🐘', link: '/15mangrenmoxiang/index' },
+            { text: 'La Rana en el Fondo del Pozo 🐸', link: '/16jingdizhiwa/index' },
+            { text: 'El Zorro que Aprovecha el Poder del Tigre 🦊👑', link: '/17hujiahuwei/index' },
+            { text: 'Esperar al Conejo Junto al Árbol 🌳🐇', link: '/18shouzhudaitu/index' },
+            { text: 'Contradecirse a Sí Mismo 🛡️⚔️', link: '/19zixiangmaodun/index' },
+            { text: 'Mirar los Ciruelos para Calmar la Sed 🌳🍒', link: '/20wangmeizhike/index' },
+            { text: 'Suerte o Desgracia? El Abuelo Optimista', link: '/saiwengshima/index' }
+          ]
+        },
+        // 其他部分
+        {
+          text: 'Otros Contenidos 📝',
+          collapsible: true,
+          items: [
+            { text: 'About', link: '/about/' },
+            // { text: 'Articles', link: '/articles/' }
+          ]
+        }
       ]
     }
   },
