@@ -20,14 +20,22 @@ export default {
           text: 'Mitología China 🐉',
           collapsible: true,
           items: [
-            { text: 'Yugong Mueve las Montañas ⛰️', link: '/1yugongyishan/index' },
-            { text: 'Nüwa Repara el Cielo 🌌', link: '/2nvwabutian/index' },
-            { text: 'Pangu Crea el Mundo 🌄', link: '/3pangukaitian/index' },
-            { text: "Chang'e Vuela a la Luna 🌕", link: '/4changebenyue/index' },
-            { text: 'Houyi Dispara a los Soles 🌞', link: '/5houyisheri/index' },
-            { text: 'El Pastor y la Tejedora 🌌', link: '/6niulangzhinv/index' },
-            { text: 'Los Ocho Inmortales Cruzan el Mar 🌊', link: '/8baxianguohai/index' },
-            { text: 'Kuafu Persigue el Sol 🌞', link: '/9kuafuzhuri/index' }
+              //愚公移山
+            { text: 'Yugong Mueve las Montañas ⛰️', link: '/Yugong Mueve las Montañas/index' },
+               //女娲补天
+            { text: 'Nüwa Repara el Cielo 🌌', link: '/Nüwa Repara el Cielo/index' },
+               //盘古开天
+            { text: 'Pangu Crea el Mundo 🌄', link: '/Pangu Crea el Mundo/index' },
+               //嫦娥奔月
+            { text: "Chang'e Vuela a la Luna 🌕", link: '/Chang\'e Vuela a la Luna/index' },
+               //后羿射日
+            { text: 'Houyi Dispara a los Soles 🌞', link: '/Houyi Dispara a los Soles/index' },
+               //牛郎织女
+            { text: 'El Pastor y la Tejedora 🌌', link: '/El Pastor y la Tejedora/index' },
+               //八仙过海
+            { text: 'Los Ocho Inmortales Cruzan el Mar 🌊', link: '/Los Ocho Inmortales Cruzan el Mar/index' },
+               //夸父逐日
+            { text: 'Kuafu Persigue el Sol 🌞', link: '/Kuafu Persigue el Sol/index' }
           ]
         },
         // 寓言故事部分
@@ -35,18 +43,30 @@ export default {
           text: 'Fábulas Chinas 📚',
           collapsible: true,
           items: [
-            { text: 'El Hombre de Qi que Temía al Cielo 🌤️', link: '/7qirenyoutian/index' },
-            { text: 'Pintar Patas a la Serpiente 🐍', link: '/10huashetianzu/index' },
-            { text: 'El Pájaro Jingwei Llena el Mar 🌊', link: '/11jingweitianhai/index' },
-            { text: 'Marcar el Barco para Encontrar la Espada 🗡️🚢', link: '/13kezhouqiujian/index' },
-            { text: 'El Señor Ye Ama a los Dragones 🐉🏠', link: '/14yegonghaolong/index' },
-            { text: 'Los Ciegos y el Elefante 👥🐘', link: '/15mangrenmoxiang/index' },
-            { text: 'La Rana en el Fondo del Pozo 🐸', link: '/16jingdizhiwa/index' },
-            { text: 'El Zorro que Aprovecha el Poder del Tigre 🦊👑', link: '/17hujiahuwei/index' },
-            { text: 'Esperar al Conejo Junto al Árbol 🌳🐇', link: '/18shouzhudaitu/index' },
-            { text: 'Contradecirse a Sí Mismo 🛡️⚔️', link: '/19zixiangmaodun/index' },
-            { text: 'Mirar los Ciruelos para Calmar la Sed 🌳🍒', link: '/20wangmeizhike/index' },
-            { text: 'Suerte o Desgracia? El Abuelo Optimista', link: '/saiwengshima/index' }
+               //杞人忧天
+            { text: 'El Hombre de Qi que Temía al Cielo 🌤️', link: '/El Hombre de Qi que Temía al Cielo/index' },
+               //画蛇添足
+            { text: 'Pintar Patas a la Serpiente 🐍', link: '/Pintar Patas a la Serpiente/index' },
+               //精卫填海
+            { text: 'El Pájaro Jingwei Llena el Mar 🌊', link: '/El Pájaro Jingwei Llena el Mar/index' },
+               //刻舟求剑
+            { text: 'Marcar el Barco para Encontrar la Espada 🗡️🚢', link: '/Marcar el Barco para Encontrar la Espada/index' },
+               //叶公好龙
+            { text: 'El Señor Ye Ama a los Dragones 🐉🏠', link: '/El Señor Ye Ama a los Dragones/index' },
+               //盲人摸象
+            { text: 'Los Ciegos y el Elefante 👥🐘', link: '/Los Ciegos y el Elefante/index' },
+               //井底之蛙
+            { text: 'La Rana en el Fondo del Pozo 🐸', link: '/La Rana en el Fondo del Pozo/index' },
+               //狐假虎威
+            { text: 'El Zorro que Aprovecha el Poder del Tigre 🦊👑', link: '/El Zorro que Aprovecha el Poder del Tigre/index' },
+               //守株待兔
+            { text: 'Esperar al Conejo Junto al Árbol 🌳🐇', link: '/Esperar al Conejo Junto al Árbol/index' },
+               //自相矛盾
+            { text: 'Contradecirse a Sí Mismo 🛡️⚔️', link: '/Contradecirse a Sí Mismo/index' },
+               //望梅止渴
+            { text: 'Mirar los Ciruelos para Calmar la Sed 🌳🍒', link: '/Mirar los Ciruelos para Calmar la Sed/index' },
+               //塞翁失马
+            { text: 'Suerte o Desgracia? El Abuelo Optimista', link: '/Suerte o Desgracia El Abuelo Optimista/index' }
           ]
         },
         // 其他部分
@@ -96,7 +116,7 @@ export default {
             .replace(/\.md$/, '')
             .replace(/\\/g, '/')
             .replace(/\/index$/, '') // 处理 index.md
-
+        console.log(urlPath)
         pages.push({
           loc: `${baseUrl}/${urlPath}`,
           lastmod: new Date().toISOString().split('T')[0],
