@@ -69,7 +69,7 @@ export default {
     //         }
     //     }
     // },
-  // 构建后生成 sitemap
+  // 构建后生成 sitemap 和 RSS feed
   async buildEnd() {
     try {
       // 获取所有 markdown 文件
@@ -118,12 +118,39 @@ ${pages.map(page => `
   </url>`).join('')}
 </urlset>`
 
+      // 生成RSS XML
+      const rss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lejano Oriente</title>
+    <description>Historias del Lejano Oriente</description>
+    <link>https://oricuento.com</link>
+    <atom:link href="https://oricuento.com/rss.xml" rel="self" type="application/rss+xml" />
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <ttl>60</ttl>
+${pages.map(page => `
+    <item>
+      <title>${page.loc.split('/').pop() || 'Home'}</title>
+      <link>${page.loc}</link>
+      <pubDate>${new Date(page.lastmod).toUTCString()}</pubDate>
+      <guid isPermaLink="true">${page.loc}</guid>
+      <description>Historia china sobre ${page.loc.split('/').pop() || 'mitología china'}</description>
+    </item>`).join('')}
+  </channel>
+</rss>`;
+
       const robotstxt = `User-agent: *
 Allow: /
-Sitemap: ${baseUrl}/sitemap.xml`
+Sitemap: ${baseUrl}/sitemap.xml
+RSS: ${baseUrl}/rss.xml`
       // 🔧 修复：确保目录存在
       const outputPath = resolve('docs/.vitepress/dist/sitemap.xml')
       const robotsOutputPath = resolve('docs/.vitepress/dist/robots.txt')
+      const rssOutputPath = resolve('docs/.vitepress/dist/rss.xml')
       const outputDir = dirname(outputPath) // 获取目录路径
 
       // 如果目录不存在，创建它
@@ -133,10 +160,12 @@ Sitemap: ${baseUrl}/sitemap.xml`
       }
       writeFileSync(outputPath, sitemap)
       writeFileSync(robotsOutputPath, robotstxt)
+      writeFileSync(rssOutputPath, rss)
       console.log('✅ Sitemap generated successfully!')
+      console.log('✅ RSS feed generated successfully!')
       console.log(`📄 Total pages: ${pages.length}`)
     } catch (error) {
-      console.error('❌ Sitemap generation failed:', error)
+      console.error('❌ Build end process failed:', error)
     }
   }
 }
