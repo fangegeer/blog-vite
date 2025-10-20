@@ -4,7 +4,7 @@ This is a blog built with VitePress!
 
 ## Latest Articles
 
-- [Getting Started with VitePress](/articles/index)
+- [Suerte o Desgracia? El Abuelo Optimista](/qirenyoutian/index)
 
 ## About
 

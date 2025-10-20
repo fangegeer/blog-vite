@@ -1,0 +1,28 @@
+/* 修复所有可能的横线问题 */
+.vp-doc {
+    /* 移除所有意外边框 */
+    * {
+        border-top: none !important;
+        border-bottom: none !important;
+    }
+
+    /* 只保留明确的分隔线 */
+    hr {
+        border-top: 1px solid var(--vp-c-divider) !important;
+        margin: 2em 0 !important;
+    }
+
+    /* 修复代码块 */
+    pre, div[class*="language-"] {
+        border: none !important;
+    }
+
+    /* 修复表格 */
+    table {
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid var(--vp-c-divider) !important;
+    }
+}
