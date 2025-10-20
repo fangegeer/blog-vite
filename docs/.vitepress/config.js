@@ -112,11 +112,12 @@ export default {
       files.forEach(file => {
         if (file === 'index.md') return // 首页已添加
 
+        // 处理路径 - 匹配Windows路径格式
         const urlPath = file
+            .replace(/\\/g, '/') // 先统一替换为正斜杠
+            .replace(/^docs\//, '') // 移除开头的docs/
             .replace(/\.md$/, '')
-            .replace(/\\/g, '/')
-            .replace(/\/index$/, '') // 处理 index.md
-        console.log(urlPath)
+            .replace(/\/index$/, ''); // 处理 index.md
         pages.push({
           loc: `${baseUrl}/${urlPath}`,
           lastmod: new Date().toISOString().split('T')[0],
