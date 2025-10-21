@@ -31,11 +31,11 @@ Desde los relatos heroicos de dioses y diosas hasta las sabias fábulas que ense
     <h3 class="collection-title">Mitología China 🐉</h3>
     <p class="collection-desc">Descubre las historias de los dioses, héroes y criaturas míticas que habitan el folclore chino.</p>
     <ul class="story-list">
-      <li><a href="/1yugongyishan/index">Yugong Mueve las Montañas ⛰️</a></li>
-      <li><a href="/2nvwabutian/index">Nüwa Repara el Cielo 🌌</a></li>
-      <li><a href="/3pangukaitian/index">Pangu Crea el Mundo 🌄</a></li>
-      <li><a href="/4changebenyue/index">Chang'e Vuela a la Luna 🌕</a></li>
-      <li><a href="/5houyisheri/index">Houyi Dispara a los Soles 🌞</a></li>
+      <li><a href="/yugong-mueve-las-montañas/index">Yugong Mueve las Montañas ⛰️</a></li>
+      <li><a href="/nüwa-repara-el-cielo/index">Nüwa Repara el Cielo 🌌</a></li>
+      <li><a href="/pangu-crea-el-mundo/index">Pangu Crea el Mundo 🌄</a></li>
+      <li><a href="/chang'e-vuela-a-la-luna/index">Chang'e Vuela a la Luna 🌕</a></li>
+      <li><a href="/houyi-dispara-a-los-soles/index">Houyi Dispara a los Soles 🌞</a></li>
     </ul>
     <a href="#mitologia-completa" class="more-link">Ver todas →</a>
   </div>
@@ -44,11 +44,11 @@ Desde los relatos heroicos de dioses y diosas hasta las sabias fábulas que ense
     <h3 class="collection-title">Fábulas Chinas 📚</h3>
     <p class="collection-desc">Aprende lecciones de vida a través de estas ingeniosas historias cortas con mensajes profundos.</p>
     <ul class="story-list">
-      <li><a href="/7qirenyoutian/index">El Hombre de Qi que Temía al Cielo 🌤️</a></li>
-      <li><a href="/10huashetianzu/index">Pintar Patas a la Serpiente 🐍</a></li>
-      <li><a href="/13kezhouqiujian/index">Marcar el Barco para Encontrar la Espada 🗡️🚢</a></li>
-      <li><a href="/14yegonghaolong/index">El Señor Ye Ama a los Dragones 🐉🏠</a></li>
-      <li><a href="/16jingdizhiwa/index">La Rana en el Fondo del Pozo 🐸</a></li>
+      <li><a href="/el-hombre-de-qi-que-temía-al-cielo/index">El Hombre de Qi que Temía al Cielo 🌤️</a></li>
+      <li><a href="/pintar-patas-a-la-serpiente/index">Pintar Patas a la Serpiente 🐍</a></li>
+      <li><a href="/marcar-el-barco-para-encontrar-la-espada/index">Marcar el Barco para Encontrar la Espada 🗡️🚢</a></li>
+      <li><a href="/el-señor-ye-ama-a-los-dragones/index">El Señor Ye Ama a los Dragones 🐉🏠</a></li>
+      <li><a href="/la-rana-en-el-fondo-del-pozo/index">La Rana en el Fondo del Pozo 🐸</a></li>
     </ul>
     <a href="#fabulas-completas" class="more-link">Ver todas →</a>
   </div>
@@ -59,17 +59,17 @@ Desde los relatos heroicos de dioses y diosas hasta las sabias fábulas que ense
 <div class="featured-stories">
   <div class="featured-story">
     <div class="story-content">
-      <h3><a href="/saiwengshima/index">Suerte o Desgracia? El Abuelo Optimista</a></h3>
+      <h3><a href="/suerte-o-desgracia-el-abuelo-optimista/index">Suerte o Desgracia? El Abuelo Optimista</a></h3>
       <p>Una historia que nos enseña que lo que aparentemente es una desgracia puede convertirse en una bendición, y viceversa. Una lección de optimismo y aceptación de los cambios de la vida.</p>
-      <a href="/saiwengshima/index" class="read-more">Leer historia →</a>
+      <a href="/suerte-o-desgracia-el-abuelo-optimista/index" class="read-more">Leer historia →</a>
     </div>
   </div>
   
   <div class="featured-story">
     <div class="story-content">
-      <h3><a href="/6niulangzhinv/index">El Pastor y la Tejedora 🌌</a></h3>
+      <h3><a href="/el-pastor-y-la-tejedora/index">El Pastor y la Tejedora 🌌</a></h3>
       <p>La conmovedora historia de amor entre un pastor humilde y una diosa celestial, separados por el dios de Jade pero permitidos de verse una vez al año en el puente de estrellas.</p>
-      <a href="/6niulangzhinv/index" class="read-more">Leer historia →</a>
+      <a href="/el-pastor-y-la-tejedora/index" class="read-more">Leer historia →</a>
     </div>
   </div>
 </div>
@@ -78,14 +78,14 @@ Desde los relatos heroicos de dioses y diosas hasta las sabias fábulas que ense
 
 <div id="mitologia-completa" class="full-collection">
   <ul class="full-story-list">
-    <li><a href="/1yugongyishan/index">Yugong Mueve las Montañas ⛰️</a></li>
-    <li><a href="/2nvwabutian/index">Nüwa Repara el Cielo 🌌</a></li>
-    <li><a href="/3pangukaitian/index">Pangu Crea el Mundo 🌄</a></li>
-    <li><a href="/4changebenyue/index">Chang'e Vuela a la Luna 🌕</a></li>
-    <li><a href="/5houyisheri/index">Houyi Dispara a los Soles 🌞</a></li>
-    <li><a href="/6niulangzhinv/index">El Pastor y la Tejedora 🌌</a></li>
-    <li><a href="/8baxianguohai/index">Los Ocho Inmortales Cruzan el Mar 🌊</a></li>
-    <li><a href="/9kuafuzhuri/index">Kuafu Persigue el Sol 🌞</a></li>
+    <li><a href="/yugong-mueve-las-montañas/index">Yugong Mueve las Montañas ⛰️</a></li>
+    <li><a href="/nüwa-repara-el-cielo/index">Nüwa Repara el Cielo 🌌</a></li>
+    <li><a href="/pangu-crea-el-mundo/index">Pangu Crea el Mundo 🌄</a></li>
+    <li><a href="/chang'e-vuela-a-la-luna/index">Chang'e Vuela a la Luna 🌕</a></li>
+    <li><a href="/houyi-dispara-a-los-soles/index">Houyi Dispara a los Soles 🌞</a></li>
+    <li><a href="/el-pastor-y-la-tejedora/index">El Pastor y la Tejedora 🌌</a></li>
+    <li><a href="/los-ocho-inmortales-cruzan-el-mar/index">Los Ocho Inmortales Cruzan el Mar 🌊</a></li>
+    <li><a href="/kuafu-persigue-el-sol/index">Kuafu Persigue el Sol 🌞</a></li>
   </ul>
 </div>
 
@@ -93,18 +93,18 @@ Desde los relatos heroicos de dioses y diosas hasta las sabias fábulas que ense
 
 <div id="fabulas-completas" class="full-collection">
   <ul class="full-story-list">
-    <li><a href="/7qirenyoutian/index">El Hombre de Qi que Temía al Cielo 🌤️</a></li>
-    <li><a href="/10huashetianzu/index">Pintar Patas a la Serpiente 🐍</a></li>
-    <li><a href="/11jingweitianhai/index">El Pájaro Jingwei Llena el Mar 🌊</a></li>
-    <li><a href="/13kezhouqiujian/index">Marcar el Barco para Encontrar la Espada 🗡️🚢</a></li>
-    <li><a href="/14yegonghaolong/index">El Señor Ye Ama a los Dragones 🐉🏠</a></li>
-    <li><a href="/15mangrenmoxiang/index">Los Ciegos y el Elefante 👥🐘</a></li>
-    <li><a href="/16jingdizhiwa/index">La Rana en el Fondo del Pozo 🐸</a></li>
-    <li><a href="/17hujiahuwei/index">El Zorro que Aprovecha el Poder del Tigre 🦊👑</a></li>
-    <li><a href="/18shouzhudaitu/index">Esperar al Conejo Junto al Árbol 🌳🐇</a></li>
-    <li><a href="/19zixiangmaodun/index">Contradecirse a Sí Mismo 🛡️⚔️</a></li>
-    <li><a href="/20wangmeizhike/index">Mirar los Ciruelos para Calmar la Sed 🌳🍒</a></li>
-    <li><a href="/saiwengshima/index">Suerte o Desgracia? El Abuelo Optimista</a></li>
+    <li><a href="/el-hombre-de-qi-que-temía-al-cielo/index">El Hombre de Qi que Temía al Cielo 🌤️</a></li>
+    <li><a href="/pintar-patas-a-la-serpiente/index">Pintar Patas a la Serpiente 🐍</a></li>
+    <li><a href="/el-pájaro-jingwei-llena-el-mar/index">El Pájaro Jingwei Llena el Mar 🌊</a></li>
+    <li><a href="/marcar-el-barco-para-encontrar-la-espada/index">Marcar el Barco para Encontrar la Espada 🗡️🚢</a></li>
+    <li><a href="/el-señor-ye-ama-a-los-dragones/index">El Señor Ye Ama a los Dragones 🐉🏠</a></li>
+    <li><a href="/los-ciegos-y-el-elefante/index">Los Ciegos y el Elefante 👥🐘</a></li>
+    <li><a href="/la-rana-en-el-fondo-del-pozo/index">La Rana en el Fondo del Pozo 🐸</a></li>
+    <li><a href="/el-zorro-que-aprovecha-el-poder-del-tigre/index">El Zorro que Aprovecha el Poder del Tigre 🦊👑</a></li>
+    <li><a href="/esperar-al-conejo-junto-al-Árbol/index">Esperar al Conejo Junto al Árbol 🌳🐇</a></li>
+    <li><a href="/contradecirse-a-sí-mismo/index">Contradecirse a Sí Mismo 🛡️⚔️</a></li>
+    <li><a href="/mirar-los-ciruelos-para-calmar-la-sed/index">Mirar los Ciruelos para Calmar la Sed 🌳🍒</a></li>
+    <li><a href="/suerte-o-desgracia-el-abuelo-optimista/index">Suerte o Desgracia? El Abuelo Optimista</a></li>
   </ul>
 </div>
 
