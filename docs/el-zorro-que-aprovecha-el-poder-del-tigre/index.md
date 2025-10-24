@@ -1,3 +1,15 @@
+---
+title: El Zorro que Aprovecha el Poder del Tigre 🦊👑
+description: Una fábula china sobre un zorro astuto que usa el poder de un tigre. Una lección de inteligencia, valentía y honestidad para niños.
+keywords:
+  - Fábula china
+  - Zorro y tigre
+  - Modismo chino
+  - Inteligencia
+  - Cuento infantil
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### El Zorro que Aprovecha el Poder del Tigre 🦊👑
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -114,7 +126,7 @@ Al final, el zorro se volvió hacia el tigre y dijo: "¿Ves? Todos los animales 
 💪 **Sé valiente**: Enfrenta los desafíos con confianza  
 🤝 **Sé honesto**: Usa tu inteligencia para el bien, no para engañar  
 🧘 **Mantén la calma**: Piensa claro incluso en situaciones difíciles  
-🌟 **Piensa críticamente**: Cuestiona lo que parece demasiado bueno para ser verdad  
+🌟 **Piensa críticamente**: Cuestiona lo que parece demasiado bueno para ser verdad
 
 </div>
 
@@ -155,7 +167,7 @@ Dibuja la escena del zorro liderando al tigre por el bosque, con los animales hu
 🌟 **Usa tu ingenio**: Resuelve un pequeño problema de hoy con una idea creativa  
 🤝 **Comparte la historia**: Cuéntale este cuento a un amigo o familiar  
 📚 **Aprende el modismo**: Recuerda el significado de "El Zorro que Aprovecha el Poder del Tigre"  
-💭 **Reflexiona**: Piensa en una vez que usaste tu inteligencia para ayudar a alguien  
+💭 **Reflexiona**: Piensa en una vez que usaste tu inteligencia para ayudar a alguien
 
 </div>
 
@@ -180,7 +192,7 @@ Dibuja la escena del zorro liderando al tigre por el bosque, con los animales hu
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

@@ -1,3 +1,15 @@
+---
+title: Yugong Mueve las Montañas ⛰️
+description: Descubre la fábula china de Yugong, un anciano que con perseverancia y fe mueve montañas. Una lección sobre la constancia y el trabajo en equipo.
+keywords:
+  - Yugong
+  - Fábula china
+  - Perseverancia
+  - Trabajo en equipo
+  - Fe
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Yugong Mueve las Montañas ⛰️
 
 > **Nota sobre la narrativa intercultural**: Esta historia ha sido adaptada internacionalmente, manteniendo la esencia de la cultura china, para que los pequeños lectores de todo el mundo puedan entender y disfrutar de la tradición china.
@@ -25,7 +37,7 @@ Todos comenzaron a discutir con entusiasmo: "¡Podemos llevar las piedras y la t
 Un niño del vecindario vio a todos trabajando con tanto ánimo y, lleno de emoción, corrió a ayudar, aportando su granito de arena a este increíble proyecto.
 
 #### 🗣️ **La duda del sabio**
-En el pueblo vivía un anciano conocido como **Zhìsǒu** (el Sabio Prudente). Al enterarse de que Yugong estaba moviendo las montañas, le pareció una locura y fue a劝阻arlo: "¡Ay, Yugong, esto no tiene sentido! Con tu edad, ni siquiera podrías arrancar una hierba de la montaña. ¿Cómo vas a mover una montaña entera?"
+En el pueblo vivía un anciano conocido como **Zhìsǒu** (el Sabio Prudente). Al enterarse de que Yugong estaba moviendo las montañas, le pareció una locura y fue a勸阻arlo: "¡Ay, Yugong, esto no tiene sentido! Con tu edad, ni siquiera podrías arrancar una hierba de la montaña. ¿Cómo vas a mover una montaña entera?"
 
 #### 💫 **La sabia respuesta de Yugong**
 Yugong respondió con firmeza: "¡Fíjate! Tu forma de pensar es muy limitada. Aunque yo no lo logre, tengo a mis hijos; ellos tendrán nietos, y los nietos tendrán hijos. ¡Nuestra familia nunca se acabará! Pero estas montañas no crecerán más. ¿Por qué preocuparnos por no poder aplanarlas?"
@@ -130,7 +142,7 @@ Desde entonces, desde la casa de Yugong hasta la orilla sur del río Han, se abr
 👣 **Persistir es vencer** - Ninguna dificultad resiste al esfuerzo constante  
 🤝 **La unión hace la fuerza** - Juntos, podemos lograr milagros  
 🌱 **La visión a largo plazo supera a la astucia** - Mirar al futuro es más importante que ser ingenioso hoy  
-🌟 **Nunca rendirse** - Con determinación, no hay obstáculo imposible  
+🌟 **Nunca rendirse** - Con determinación, no hay obstáculo imposible
 
 </div>
 
@@ -171,7 +183,7 @@ Haz una tabla de "estrellas de la perseverancia". Cada vez que completes algo co
 🌟 **Identifica tu "montaña"**: Encuentra tu mayor desafío actual y haz un plan para superarlo  
 👥 **Forma tu "equipo para mover montañas"**: Aprende a pedir ayuda y enfrenta los retos con tu familia o amigos  
 📝 **Registra tus pasos**: Usa un diario o dibujos para anotar cada pequeño avance  
-🎉 **Celebra cada victoria**: Cada vez que logres un pequeño objetivo, date un reconocimiento  
+🎉 **Celebra cada victoria**: Cada vez que logres un pequeño objetivo, date un reconocimiento
 
 </div>
 
@@ -196,7 +208,7 @@ Haz una tabla de "estrellas de la perseverancia". Cada vez que completes algo co
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida y vibrante  
 👩‍🏫 **Paquete para maestros** - Actividades listas para usar en el aula  
 🖍️ **Hojas para colorear** - Personajes y escenas imprimibles para colorear  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

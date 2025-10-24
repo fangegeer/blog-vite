@@ -1,3 +1,15 @@
+---
+title: El Hombre de Qi que Temía al Cielo 🌤️
+description: Una fábula china sobre un niño que aprende a distinguir entre preocupaciones reales y miedos imaginarios, redescubriendo la alegría de vivir.
+keywords:
+  - Modismo chino
+  - Fábula infantil
+  - Gestión emocional
+  - Miedos imaginarios
+  - Cuento filosófico
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### El Hombre de Qi que Temía al Cielo 🌤️
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.

@@ -1,3 +1,15 @@
+---
+title: El Señor Ye Ama a los Dragones 🐉🏠
+description: Una fábula china sobre un señor que ama los dragones en dibujos, pero teme al real. Una lección sobre el amor auténtico y la sinceridad.
+keywords:
+  - Modismo chino
+  - Fábula infantil
+  - Dragón chino
+  - Sinceridad
+  - Amor auténtico
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### El Señor Ye Ama a los Dragones 🐉🏠
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -117,7 +129,7 @@ El dragón, confundido, preguntó: "¿No decías que me amabas? ¿Por qué te as
 🎭 **Imaginación vs. realidad**: Diferencia entre lo que imaginas y lo que es real  
 ❤️ **Corazón sincero**: Quiere con honestidad y profundidad  
 👀 **Enfrenta la realidad**: Acepta valientemente cómo son las cosas  
-🤝 **Acepta las imperfecciones**: Valora lo auténtico, incluso si no es perfecto  
+🤝 **Acepta las imperfecciones**: Valora lo auténtico, incluso si no es perfecto
 
 </div>
 
@@ -139,13 +151,13 @@ En la cultura china, los dragones son símbolos de buena suerte, sabiduría y po
 ### 🚀 **Actividades Divertidas**
 <div style="background: #fff9f0; padding: 20px; border-radius: 10px; margin: 1.5rem 0;">
 
-#### **① Dibuja tu dragón** 🎨  
+#### **① Dibuja tu dragón** 🎨
 Dibuja un dragón como lo imaginas, luego busca imágenes de dragones chinos. ¿Qué diferencias encuentras? ¿Cuál prefieres?
 
-#### **② Descubre el amor verdadero** 🔍  
+#### **② Descubre el amor verdadero** 🔍
 Piensa en algo que te guste mucho. Escribe tres razones auténticas por las que lo amas, más allá de su apariencia.
 
-#### **③ Juego de roles** 🎭  
+#### **③ Juego de roles** 🎭
 Actúa esta historia con amigos. Si eres el señor Ye, ¿qué dirías al dragón para explicar tu miedo?
 
 </div>
@@ -158,7 +170,7 @@ Actúa esta historia con amigos. Si eres el señor Ye, ¿qué dirías al dragón
 📝 **Escribe**: Anota la lección más importante que aprendiste de esta historia  
 🗣️ **Comparte**: Cuéntale a tu familia una experiencia en la que pasaste de un gusto superficial a una comprensión más profunda  
 👀 **Observa**: Mira a tu alrededor y descubre el lado auténtico de algo que te gusta  
-💖 **Actúa**: Conoce más a fondo algo que dices "amar" para apreciarlo de verdad  
+💖 **Actúa**: Conoce más a fondo algo que dices "amar" para apreciarlo de verdad
 
 </div>
 
@@ -183,7 +195,7 @@ Actúa esta historia con amigos. Si eres el señor Ye, ¿qué dirías al dragón
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

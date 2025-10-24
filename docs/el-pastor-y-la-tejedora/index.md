@@ -1,3 +1,15 @@
+---
+title: El Pastor y la Tejedora 🌌
+description: Descubre la leyenda china del Pastor y la Tejedora. Una historia de amor, separación y perseverancia que inspiró el festival de Qixi.
+keywords:
+  - Leyenda china
+  - Pastor y Tejedora
+  - Festival Qixi
+  - Mitología china
+  - Cuento de amor
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### El Pastor y la Tejedora 🌌
 
 > **Nota de narrativa intercultural**: Esta historia, adaptada para lectores globales, conserva la esencia de la cultura china mientras permite que niños de todo el mundo disfruten y comprendan las tradiciones chinas.

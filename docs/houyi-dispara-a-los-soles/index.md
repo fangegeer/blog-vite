@@ -1,3 +1,15 @@
+---
+title: Houyi Dispara a los Soles 🌞
+description: Descubre el mito chino de Houyi, el héroe que salvó al mundo disparando a los soles sobrantes. Una leyenda de valentía y responsabilidad para niños.
+keywords:
+  - Houyi
+  - Mitología china
+  - Leyenda de héroes
+  - Cuento infantil
+  - Valentía
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Houyi Dispara a los Soles 🌞
 
 > **Nota sobre la narrativa intercultural**: Esta historia ha sido adaptada internacionalmente, manteniendo la esencia de la cultura china, para que los pequeños lectores de todo el mundo puedan entender y disfrutar de la tradición china.
@@ -132,7 +144,7 @@ Para agradecer a Houyi por su ayuda, la gente lo honró como un héroe. Con su v
 🎯 **Metas claras**: Resolver problemas con un propósito definido  
 🌍 **Cuidar la naturaleza**: Mantener un equilibrio armonioso con el mundo natural  
 🤝 **Ayudar a otros**: Un verdadero héroe piensa en los demás  
-🌟 **Perseverancia**: Seguir adelante a pesar de las dificultades  
+🌟 **Perseverancia**: Seguir adelante a pesar de las dificultades
 
 </div>
 
@@ -173,7 +185,7 @@ Crea una "medalla de valentía" y dibuja en ella algo que represente un acto val
 🌟 **Encuentra héroes a tu alrededor**: Observa a las personas que ayudan a otros y aprende de ellas  
 💡 **Piensa en soluciones**: Cuando enfrentes un problema, busca una solución con calma  
 🌱 **Cuida el medio ambiente**: Comienza por ahorrar agua o proteger las plantas  
-👫 **Ayuda a quien lo necesite**: Tiende una mano a un amigo que necesite apoyo  
+👫 **Ayuda a quien lo necesite**: Tiende una mano a un amigo que necesite apoyo
 
 </div>
 
@@ -198,7 +210,7 @@ Crea una "medalla de valentía" y dibuja en ella algo que represente un acto val
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida y vibrante  
 👩‍🏫 **Paquete para maestros** - Actividades listas para usar en el aula  
 🖍️ **Hojas para colorear** - Personajes y escenas imprimibles para colorear  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

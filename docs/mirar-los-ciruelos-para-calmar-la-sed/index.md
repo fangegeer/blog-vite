@@ -1,3 +1,15 @@
+---
+title: Mirar los Ciruelos para Calmar la Sed 🌳🍒
+description: Un general usa la imaginación para dar esperanza a sus soldados sedientos. Una fábula china sobre el poder del optimismo y la sabiduría.
+keywords:
+  - Modismo chino
+  - Fábula infantil
+  - Optimismo
+  - Imaginación
+  - Cao Cao
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Mirar los Ciruelos para Calmar la Sed 🌳🍒
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -120,7 +132,7 @@ Al cruzar una pequeña colina, ¡encontraron un arroyo! Los soldados corrieron h
 💡 **Sé optimista**: Una actitud positiva puede cambiar tu perspectiva  
 🤝 **Inspira a otros**: Comparte esperanza para motivar a quienes te rodean  
 🧠 **Piensa creativamente**: Encuentra soluciones ingeniosas para los problemas  
-🌟 **Cree en lo posible**: La esperanza te lleva más lejos  
+🌟 **Cree en lo posible**: La esperanza te lleva más lejos
 
 </div>
 
@@ -161,7 +173,7 @@ Dibuja un bosque de ciruelos como lo imaginas, con las ciruelas y árboles más 
 🌟 **Piensa positivo**: La próxima vez que enfrentes un problema, usa una idea optimista para animarte  
 🤝 **Comparte la historia**: Cuéntale este cuento a un amigo  
 📚 **Recuerda el modismo**: Aprende el significado de "Mirar los Ciruelos para Calmar la Sed"  
-💭 **Imagina más**: Piensa en algo divertido que podrías lograr con el poder de tu mente  
+💭 **Imagina más**: Piensa en algo divertido que podrías lograr con el poder de tu mente
 
 </div>
 
@@ -186,7 +198,7 @@ Dibuja un bosque de ciruelos como lo imaginas, con las ciruelas y árboles más 
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

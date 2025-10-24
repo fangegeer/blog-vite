@@ -1,3 +1,15 @@
+---
+title: Pangu Crea el Mundo 🌄
+description: Descubre el mito chino de Pangu, el gigante que creó el mundo. Una leyenda sobre el sacrificio, la perseverancia y la conexión con la naturaleza.
+keywords:
+  - Pangu
+  - Mito de la creación
+  - Mitología china
+  - Cuento infantil
+  - Sacrificio
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Pangu Crea el Mundo 🌄
 
 > **Nota sobre la narrativa intercultural**: Esta historia ha sido adaptada internacionalmente, manteniendo la esencia de la cultura china, para que los pequeños lectores de todo el mundo puedan entender y disfrutar de la tradición china.
@@ -139,7 +151,7 @@ Con toda su vida, Pangu creó un mundo lleno de color y vitalidad. Desde entonce
 💪 **Responsabilidad y perseverancia**: Su esfuerzo constante muestra la fuerza de la responsabilidad  
 🌍 **Unidad con la naturaleza**: Los humanos y la naturaleza son uno, debemos respetarla y cuidarla  
 🌟 **Espíritu de creación**: La valentía de Pangu nos inspira a innovar y crear  
-🎁 **Amor desinteresado**: Darlo todo por el mundo refleja un amor inmenso  
+🎁 **Amor desinteresado**: Darlo todo por el mundo refleja un amor inmenso
 
 </div>
 
@@ -180,7 +192,7 @@ Elige algo que Pangu creó, como un árbol o un arroyo, y obsérvalo durante una
 🎨 **Sé un creador**: Usa tu imaginación para hacer una obra hermosa con pintura o manualidades  
 🌿 **Cuida la naturaleza**: Valora cada gota de agua y cada árbol, protege el mundo de Pangu  
 💪 **Sé constante**: Elige una meta y trabaja en ella con la misma fuerza que Pangu  
-🤗 **Comparte con amor**: Aprende a dar a los demás y descubre la alegría de compartir  
+🤗 **Comparte con amor**: Aprende a dar a los demás y descubre la alegría de compartir
 
 </div>
 
@@ -205,7 +217,7 @@ Elige algo que Pangu creó, como un árbol o un arroyo, y obsérvalo durante una
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida y vibrante  
 👩‍🏫 **Paquete para maestros** - Actividades listas para usar en el aula  
 🖍️ **Hojas para colorear** - Personajes y escenas imprimibles para colorear  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

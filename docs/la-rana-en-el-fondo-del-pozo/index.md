@@ -1,3 +1,15 @@
+---
+title: La Rana en el Fondo del Pozo 🐸
+description: Una fábula china sobre una rana en un pozo que descubre un mundo más grande. Una lección sobre curiosidad, valentía y la importancia de abrir la mente.
+keywords:
+  - Fábula china
+  - Rana en el pozo
+  - Curiosidad
+  - Cuento infantil
+  - Mentalidad abierta
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### La Rana en el Fondo del Pozo 🐸
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -114,7 +126,7 @@ Xiao Le escuchó fascinada. Por primera vez, se dio cuenta de que el mundo era m
 💪 **Sé valiente**: Salir de tu zona de confort requiere coraje, pero vale la pena  
 🤝 **Escucha a los demás**: Aprende de las experiencias de quienes han visto más  
 🔍 **Sé curioso**: La curiosidad hace que la vida sea más emocionante  
-📚 **Crece con nuevas experiencias**: Entre más veas, más sabio te volverás  
+📚 **Crece con nuevas experiencias**: Entre más veas, más sabio te volverás
 
 </div>
 
@@ -154,7 +166,7 @@ Anota una cosa nueva que aprendiste esta semana. ¡Siéntete tan emocionado como
 
 🌟 **Prueba algo nuevo**: Lee un libro diferente o haz un nuevo amigo  
 🌟 **Habla con los mayores**: Pregúntales sobre sus aventuras cuando eran jóvenes  
-🌟 **Sé curioso**: Encuentra algo que te sorprenda cada día  
+🌟 **Sé curioso**: Encuentra algo que te sorprenda cada día
 
 </div>
 
@@ -179,7 +191,7 @@ Anota una cosa nueva que aprendiste esta semana. ¡Siéntete tan emocionado como
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

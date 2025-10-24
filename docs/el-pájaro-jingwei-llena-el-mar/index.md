@@ -1,3 +1,15 @@
+---
+title: Jingwei Llena el Mar 🌊
+description: Descubre la leyenda china de Jingwei, un pájaro que con perseverancia intenta llenar el mar. Una historia sobre la constancia y el espíritu inquebrantable.
+keywords:
+  - Jingwei
+  - Mitología china
+  - Perseverancia
+  - Leyenda infantil
+  - Cuento chino
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Jingwei Llena el Mar 🌊
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.

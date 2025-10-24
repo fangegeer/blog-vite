@@ -1,3 +1,15 @@
+---
+title: Los Ocho Inmortales Cruzan el Mar 🌊
+description: Descubre la leyenda china de los Ocho Inmortales. Una historia sobre trabajo en equipo, creatividad y cómo cada persona puede usar sus talentos únicos.
+keywords:
+  - Ocho Inmortales
+  - Mitología china
+  - Trabajo en equipo
+  - Leyenda china
+  - Cuento infantil
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Los Ocho Inmortales Cruzan el Mar 🌊
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -153,7 +165,7 @@ Los ocho sabios finalmente cruzaron el mar y continuaron su viaje. La historia d
 ### 🌍 **Notas Culturales de China**
 <div style="background: #fff4e6; padding: 20px; border-radius: 10px; margin: 1.5rem 0;">
 
-#### **① La sabiduría de la diversidad 👥** 
+#### **① La sabiduría de la diversidad 👥**
 Los ocho inmortales representan personas de diferentes edades, géneros y orígenes. [TN: Se conserva el concepto cultural de "Los Ocho Inmortales", ya que es central a la historia] Esta historia refleja la filosofía china de "armonía en la diversidad", donde todos, aunque diferentes, pueden convivir y valorarse mutuamente.
 
 #### **② La armonía con la naturaleza 🌿**
@@ -215,7 +227,7 @@ Usa bloques o vasos de papel para construir una torre. Cada persona se encarga d
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

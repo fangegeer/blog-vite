@@ -1,3 +1,15 @@
+---
+title: "Chang'e Vuela a la Luna 🌕"
+description: "Descubre la leyenda de Chang'e, la diosa china de la luna. Una historia de valentía y amor con actividades interactivas para niños y notas culturales."
+keywords:
+  - Chang'e
+  - Leyenda china
+  - Festival de Medio Otoño
+  - Cuento infantil
+  - Mitología china
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Chang'e Vuela a la Luna 🌕
 
 > **Nota sobre la narrativa intercultural**: Esta historia ha sido adaptada internacionalmente, manteniendo la esencia de la cultura china, para que los pequeños lectores de todo el mundo puedan entender y disfrutar de la tradición china.
@@ -131,7 +143,7 @@ Cada vez que la luna estaba más redonda y brillante, Houyi ponía en el patio d
 ⚖️ **Tomar decisiones correctas**: En un momento difícil, eligió lo mejor para todos  
 💝 **El poder del amor**: Aunque la separación es triste, el amor mantiene los corazones unidos  
 🌙 **Valorar los sentimientos**: Los lazos profundos merecen ser cuidados con amor  
-🌟 **Asumir responsabilidades**: Chang'e aceptó las consecuencias por proteger algo valioso  
+🌟 **Asumir responsabilidades**: Chang'e aceptó las consecuencias por proteger algo valioso
 
 </div>
 
@@ -172,7 +184,7 @@ Imagina qué harías en el palacio lunar. ¿Molerías medicinas con el conejo de
 🌜 **Observa la luna**: Esta noche, mira la luna. ¿Qué forma tiene?  
 👪 **Tiempo en familia**: En la próxima luna llena, comparte historias con tu familia bajo la luna  
 🎨 **Dibuja tu imaginación**: Crea una imagen de Chang'e y su palacio lunar  
-💝 **Expresa tu cariño**: Di a alguien que quieres cuánto te importa  
+💝 **Expresa tu cariño**: Di a alguien que quieres cuánto te importa
 
 </div>
 
@@ -197,7 +209,7 @@ Imagina qué harías en el palacio lunar. ¿Molerías medicinas con el conejo de
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida y vibrante  
 👩‍🏫 **Paquete para maestros** - Actividades listas para usar en el aula  
 🖍️ **Hojas para colorear** - Personajes y escenas imprimibles para colorear  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

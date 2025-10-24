@@ -1,3 +1,15 @@
+---
+title: Kuafu Persigue el Sol 🌞
+description: Descubre la leyenda china de Kuafu, el gigante que persigue el sol. Una historia de perseverancia, sueños y sacrificio para niños.
+keywords:
+  - Kuafu
+  - Mitología china
+  - Perseverancia
+  - Leyenda infantil
+  - Cuento sobre sueños
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Kuafu Persigue el Sol 🌞
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -145,7 +157,7 @@ Aunque Kuafu no alcanzó el sol, su espíritu de perseguir la luz conmovió al c
 ### 🌍 **Notas Culturales de China**
 <div style="background: #fff4e6; padding: 20px; border-radius: 10px; margin: 1.5rem 0;">
 
-#### **① El espíritu de exploración en la antigua China 🔍** 
+#### **① El espíritu de exploración en la antigua China 🔍**
 [TN: Se conserva el concepto cultural de "Kuafu", ya que es central a la historia] Esta historia muestra la curiosidad y el espíritu explorador de los antiguos chinos hacia los fenómenos naturales. A través de esta hermosa leyenda, expresaron su comprensión e imaginación sobre el movimiento del sol, un recurso narrativo común en muchas culturas del mundo.
 
 #### **② El valor del sacrificio 💖**
@@ -207,7 +219,7 @@ Usa papel de colores para hacer flores y árboles, creando un "bosque de gratitu
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

@@ -1,3 +1,15 @@
+---
+title: Esperar al Conejo Junto al Árbol 🌳🐇
+description: Una fábula china sobre un campesino que deja de trabajar esperando que la suerte se repita. Una lección sobre el esfuerzo y la diligencia.
+keywords:
+  - Modismo chino
+  - Fábula infantil
+  - Trabajo duro
+  - Esfuerzo
+  - Cuento sobre la suerte
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Esperar al Conejo Junto al Árbol 🌳🐇
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -117,7 +129,7 @@ Sin embargo, nunca apareció otra liebre. Llegó el otoño, y mientras los demá
 🧠 **Piensa con claridad**: No confundas la suerte con un plan confiable  
 🤝 **Escucha consejos**: Aprende de quienes quieren ayudarte  
 🌱 **Sé proactivo**: Toma acción para alcanzar tus metas  
-📚 **Reflexiona**: Aprende de tus errores para mejorar  
+📚 **Reflexiona**: Aprende de tus errores para mejorar
 
 </div>
 
@@ -158,7 +170,7 @@ Dibuja los campos de A-Tian, primero llenos de cultivos y luego cubiertos de mal
 🌟 **Esfuérzate hoy**: Planta una semilla o cuida una planta para ver los frutos de tu trabajo  
 📝 **Haz un plan**: Establece una meta pequeña que puedas alcanzar con esfuerzo  
 🤔 **Reflexiona**: Escribe tres momentos en los que lograste algo por trabajar duro  
-💪 **Toma acción**: Escoge algo que has estado esperando y comienza a trabajar en ello  
+💪 **Toma acción**: Escoge algo que has estado esperando y comienza a trabajar en ello
 
 </div>
 
@@ -183,7 +195,7 @@ Dibuja los campos de A-Tian, primero llenos de cultivos y luego cubiertos de mal
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

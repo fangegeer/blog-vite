@@ -1,3 +1,15 @@
+---
+title: Pintar Patas a la Serpiente 🐍
+description: Una fábula china sobre un hombre que pierde un premio por añadir patas a su serpiente. Una lección sobre la moderación y saber cuándo detenerse.
+keywords:
+  - Modismo chino
+  - Fábula infantil
+  - Moderación
+  - Saber cuándo parar
+  - Exceso
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Pintar Patas a la Serpiente 🐍
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -135,7 +147,7 @@ Al notar que Xiao Cong tenía la jarra pero estaba ocupado retocando, se acercó
 ### 🌍 **Notas Culturales de China**
 <div style="background: #fff4e6; padding: 20px; border-radius: 10px; margin: 1.5rem 0;">
 
-#### **① La sabiduría de los modismos chinos 📚** 
+#### **① La sabiduría de los modismos chinos 📚**
 "Pintar Patas a la Serpiente" es un modismo chino antiguo. [TN: Se conserva el nombre original del modismo, ya que es un concepto cultural central] Al igual que en español tenemos refranes como "No cuentes los pollos antes de que nazcan", los modismos chinos transmiten profundas lecciones de vida con pocas palabras. Este modismo nos recuerda: haz las cosas con moderación, no añadas lo innecesario.
 
 #### **② El camino del equilibrio en la filosofía oriental ⚖️**
@@ -197,7 +209,7 @@ Habla con tu familia sobre momentos en la vida que son como "pintar patas a la s
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

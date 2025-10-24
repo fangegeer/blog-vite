@@ -1,3 +1,15 @@
+---
+title: Nüwa Repara el Cielo 🌌
+description: La leyenda de Nüwa, la diosa china que salvó al mundo reparando el cielo. Una historia de valentía, sabiduría y responsabilidad para niños.
+keywords:
+  - Nüwa
+  - Mitología china
+  - Leyenda de la creación
+  - Cuento infantil
+  - Responsabilidad
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Nüwa Repara el Cielo 🌌
 
 > **Nota sobre la narrativa intercultural**: Esta historia ha sido adaptada internacionalmente, manteniendo la esencia de la cultura china, para que los pequeños lectores de todo el mundo puedan entender y disfrutar de la tradición china.
@@ -126,7 +138,7 @@ Para evitar que el cielo se rompiera otra vez, Nüwa recolectó grandes cantidad
 💪 **Valentía ante los retos**: Frente a una gran catástrofe, Nüwa no se dio por vencida  
 🔧 **Sabiduría para resolver problemas**: Nüwa usó diferentes métodos para solucionar cada problema  
 ❤️ **Amor y dedicación**: Nüwa dio todo por amor al mundo que creó  
-🌍 **Cuidar el planeta**: La historia nos recuerda valorar y proteger nuestro hogar  
+🌍 **Cuidar el planeta**: La historia nos recuerda valorar y proteger nuestro hogar
 
 </div>
 
@@ -167,7 +179,7 @@ Como Nüwa protegió el mundo, haz algo por el medio ambiente. Puede ser limpiar
 🌟 **Encuentra lo que necesita ayuda**: Observa a tu alrededor qué necesita ser reparado o mejorado  
 🛠️ **Aprende a resolver problemas**: Cuando enfrentes un reto, piensa en todas las soluciones posibles  
 🌍 **Cuida nuestro planeta**: Comienza con pequeñas acciones para proteger nuestro hogar común  
-🤝 **Ayuda a los demás**: Tiende una mano amiga a quien lo necesite  
+🤝 **Ayuda a los demás**: Tiende una mano amiga a quien lo necesite
 
 </div>
 
@@ -192,7 +204,7 @@ Como Nüwa protegió el mundo, haz algo por el medio ambiente. Puede ser limpiar
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida y vibrante  
 👩‍🏫 **Paquete para maestros** - Actividades listas para usar en el aula  
 🖍️ **Hojas para colorear** - Personajes y escenas imprimibles para colorear  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

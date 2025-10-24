@@ -1,3 +1,15 @@
+---
+title: Marcar el Barco para Encontrar la Espada 🗡️🚢
+description: Una fábula china sobre un chico que marca un barco en movimiento para encontrar su espada. Una lección sobre la flexibilidad y la adaptación al cambio.
+keywords:
+  - Fábula china
+  - Adaptabilidad
+  - Pensamiento flexible
+  - Modismo chino
+  - Cuento filosófico
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Marcar el Barco para Encontrar la Espada 🗡️🚢
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de la cultura china, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y amar la cultura tradicional china.
@@ -117,7 +129,7 @@ Cuando el barco finalmente atracó, Xiao Ming saltó al agua desde el lugar dond
 💡 **Piensa con flexibilidad**: Ajusta tus métodos según la situación  
 ⏰ **Actúa en el momento justo**: Haz lo correcto en el tiempo adecuado  
 🤔 **Analiza a fondo**: No te quedes en lo superficial  
-🔄 **Adáptate al cambio**: El mundo cambia, y tus métodos también deben hacerlo  
+🔄 **Adáptate al cambio**: El mundo cambia, y tus métodos también deben hacerlo
 
 </div>
 
@@ -139,13 +151,13 @@ En la cultura china, los ríos simbolizan el flujo y el cambio de la vida. El fi
 ### 🚀 **Actividades Divertidas**
 <div style="background: #fff9f0; padding: 20px; border-radius: 10px; margin: 1.5rem 0;">
 
-#### **① Juego de observar cambios** 👀  
+#### **① Juego de observar cambios** 👀
 Con tus padres, observa: ¿qué ha cambiado hoy en el camino de casa a la escuela en comparación con ayer? ¡Anota tres diferencias que encuentres!
 
-#### **② Soluciones creativas** 💡  
+#### **② Soluciones creativas** 💡
 Imagina que tu juguete se cayó debajo del sofá. Además de usar la mano, ¿qué otras tres formas se te ocurren para sacarlo?
 
-#### **③ Teatro de roles** 🎭  
+#### **③ Teatro de roles** 🎭
 Actúa esta historia con tus amigos. Si eres Xiao Ming, ¿cómo buscarías la espada de una manera diferente?
 
 </div>
@@ -158,7 +170,7 @@ Actúa esta historia con tus amigos. Si eres Xiao Ming, ¿cómo buscarías la es
 📝 **Dibuja**: Crea un dibujo de la escena que más te impactó de la historia  
 🗣️ **Cuenta**: Comparte esta historia con tu familia o amigos  
 🤝 **Haz**: Intenta resolver una tarea diaria con un método nuevo  
-💭 **Piensa**: Reflexiona sobre situaciones en tu vida donde necesitas ser flexible  
+💭 **Piensa**: Reflexiona sobre situaciones en tu vida donde necesitas ser flexible
 
 </div>
 
@@ -183,7 +195,7 @@ Actúa esta historia con tus amigos. Si eres Xiao Ming, ¿cómo buscarías la es
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

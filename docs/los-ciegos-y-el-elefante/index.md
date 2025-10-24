@@ -1,3 +1,15 @@
+---
+title: Los Ciegos y el Elefante 👥🐘
+description: Una fábula de la India sobre ciegos que tocan un elefante, enseñando la importancia de ver el todo. Una lección de perspectiva y humildad.
+keywords:
+  - Fábula india
+  - Ciegos y el elefante
+  - Perspectiva
+  - Pensamiento crítico
+  - Cuento filosófico
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### Los Ciegos y el Elefante 👥🐘
 
 > **Explicación narrativa intercultural**: Esta historia, manteniendo la esencia de su origen en la India antigua, ha sido adaptada internacionalmente para que los pequeños lectores globales puedan entender y apreciar esta lección universal.
@@ -121,7 +133,7 @@ Un anciano que pasaba por allí sonrió y dijo: "Queridos amigos, cada uno de us
 🤝 **Respeta las diferencias**: Cada punto de vista puede contener una parte de la verdad  
 🧠 **Mantén la mente abierta**: Escucha las experiencias y opiniones de los demás  
 💭 **Sé humilde**: Reconoce que tu conocimiento puede ser incompleto  
-🌟 **Integra las ideas**: Combina diferentes perspectivas para una comprensión más completa  
+🌟 **Integra las ideas**: Combina diferentes perspectivas para una comprensión más completa
 
 </div>
 
@@ -162,7 +174,7 @@ Habla con un amigo sobre un tema y luego intercambien posiciones. Intenta defend
 👀 **Practica la observación**: Describe un objeto cotidiano desde tres ángulos diferentes  
 👂 **Escucha con atención**: Escucha las opiniones de tres personas sobre un mismo tema  
 💬 **Comparte una experiencia**: Cuéntale a tu familia un momento en que solo viste una parte de la verdad  
-🤔 **Reflexiona**: Piensa en cómo puedes entender mejor las cosas complicadas  
+🤔 **Reflexiona**: Piensa en cómo puedes entender mejor las cosas complicadas
 
 </div>
 
@@ -187,7 +199,7 @@ Habla con un amigo sobre un tema y luego intercambien posiciones. Intenta defend
 🎨 **Versión en cómic** - Una experiencia de lectura visual divertida  
 👩‍🏫 **Paquete de guías para maestros** - Actividades listas para usar en el aula  
 🖍️ **Paquete de dibujos para colorear** - Hojas imprimibles de personajes y escenas  
-💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento  
+💫 **Pósters con frases inspiradoras** - Resumen visual de la sabiduría del cuento
 
 ¡Síguenos para ser el primero en recibir notificaciones de recursos exclusivos! Para que cada niño pueda crecer feliz con recursos de cuentos más ricos
 

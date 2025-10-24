@@ -1,3 +1,15 @@
+---
+title: "¿Suerte o Desgracia? El Abuelo Optimista 🌈"
+description: "Una fábula china sobre un abuelo optimista cuya mala suerte se convierte en fortuna. Una lección sobre la perspectiva y cómo lo malo puede traer algo bueno."
+keywords:
+  - Fábula china
+  - Optimismo
+  - Suerte y desgracia
+  - Perspectiva
+  - Cuento con moraleja
+author: "Lejano Oriente"
+canonical: "https://oricuento.com/"
+---
 ### **¿Suerte o Desgracia? El Abuelo Optimista** 🌈
 
 > Una historia antigua de **China** que te enseña a mirar el mundo con ojos nuevos.
